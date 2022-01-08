@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/icon?family=Material+Icons");
 @import url("https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js");
 
-body {
+        body {
             background-color: #faf6e7;
         }
 
@@ -34,16 +34,12 @@ body {
         }
 
         .quote {
-            /* padding: 2em; */
-
             border-radius: .3em;
             box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.1);
             padding: 5px 32px 10px 32px;
             border: 2px solid #3437F1;
             background: #FFFFFF;
             box-sizing: border-box;
-            /* basic shadow */
-
             box-shadow: 0px 7px 14px #D3DAE2;
             border-radius: 25px;
 
@@ -77,10 +73,7 @@ body {
             font-weight: lighter;
             font-size: 14px;
             line-height: 160%;
-            /* identical to box height, or 26px */
-
             letter-spacing: 0.14px;
-
             color: #534d4d;
         }
 
